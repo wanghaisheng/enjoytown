@@ -3,7 +3,7 @@
 <h1 align="center">
 <a href="https://enjoytown.netlify.app">
 Enjoytown
-</a>
+</a> (on break till march 2025)
 </h1>
 
 <p align="center">
